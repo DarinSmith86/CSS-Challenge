@@ -4,4 +4,4 @@ Make header 2 Green
 
 Make header 3 Blue
 
-Italicize the sentence.
+Italicize the CSS sentence.
